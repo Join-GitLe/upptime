@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: 外部指数接口
-    url: http://10.168.1.152:8006
+  - name: bilibili
+    url: http://bilibili.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80
